@@ -1,6 +1,5 @@
 <?php
     $nombre = "Dominic Andre Villanueva Quevedo"
-    $Nombre = "Otro nombre"
 ?>
 
 <!DOCTYPE html>
